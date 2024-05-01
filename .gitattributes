@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+pattern_to_match_large_files !text !filter !merge !diff
