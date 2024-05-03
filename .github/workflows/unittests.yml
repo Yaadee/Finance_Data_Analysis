@@ -2,7 +2,7 @@ name: Run Unit Tests
 
 on:
   push:
-    branches: [main]
+    branches: [task2]
 
 jobs:
   test:
